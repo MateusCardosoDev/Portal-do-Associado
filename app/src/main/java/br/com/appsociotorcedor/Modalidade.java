@@ -5,6 +5,10 @@ public enum Modalidade {
     DIAMANTE,
     ARQUIBANCADA,
     CADEIRA,
-    OURO;
+    OURO,
+    DIAMOND,
+    GRANDSTAND,
+    CHAIR,
+    GOLD;
 
 }
